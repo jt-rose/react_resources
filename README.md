@@ -16,6 +16,8 @@ Framer Motion allows you to add animations to elements on various effects, which
 - [Framer-Motion]
 
 ## Data Visualization
+These libraries simplify data visualization in React, but have a pretty hefty download cost, so be mindful when using them. If you find your site is slower than you'd like, [Bundlephobia] and [Google Chrome Lighthouse] can help pinpoint why.
+
 - [Victory]
 - [React Charts]
 
@@ -75,3 +77,5 @@ All three of these frameworks allow for static site generation (SSG) while NextJ
 [NextJS]: https://nextjs.org
 [Gatsby]: https://www.gatsbyjs.com
 [Remix]: https://remix.run
+[Bundlephobia]: https://bundlephobia.com
+[Google Chrome Lighthouse]: https://developers.google.com/web/tools/lighthouse
