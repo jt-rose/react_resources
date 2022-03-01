@@ -11,7 +11,7 @@ Component libraries give you premade components that you can adjust via props/ h
 - [ANT]
 
 ## Animation
-Frmer Motion allows you to add animations to elements on various effects, which helps to make your site feel smoother and more responsive.
+Framer Motion allows you to add animations to elements on various effects, which helps to make your site feel smoother and more responsive.
 
 - [Framer-Motion]
 
