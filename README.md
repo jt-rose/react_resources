@@ -42,14 +42,14 @@ Form libraries can ease the pain and boilerplate of forms in React.
 - [Formik]
 
 ## GraphQL Clients
-For those awesome people using a GraphQL server, there are various clients that can work with codegen and greatly simplify frontend development while alos providing a cache if needed. Apollo Client is the best known but is a very heavyweight option. URQL is lighter, but I personally find a little clunky to work with. React Query is a bit newer but strikes me as the best, is lighter than the other two, and has excellent documentation and integration with server-side rendering (SSR) in NextJS.
+For those awesome people using a GraphQL server, there are various clients that can work with codegen and greatly simplify frontend development while also providing a cache if needed. Apollo Client is the best known but is a very heavyweight option. URQL is lighter, but I personally find a little clunky to work with. React Query is a bit newer but strikes me as the best, is lighter than the other two, and has excellent documentation and integration with server-side rendering (SSR) in NextJS.
 
 - [Apollo Client]
 - [URQL]
 - [React Query]
 
 ## Frameworks
-All three of these frameworks allow from static site generation (SSG) while NextJS and Remix also allow for server-side rendering (SSR).
+All three of these frameworks allow for static site generation (SSG) while NextJS and Remix also allow for server-side rendering (SSR).
 
 - [NextJS]
 - [Gatsby]
